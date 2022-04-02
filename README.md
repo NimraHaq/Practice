@@ -8,3 +8,7 @@ I commited this file.  _git commit -m 'practice.html'_
 Now the file is present in my local version control system.
 By _git push_  I pushed the file to my repository at the gitHub.
 To check status , I used _git status_
+
+
+If I want to push some changes to the remote repository, first I need to pull all the changes made in the remote repository into my local repository. _git pull_
+After I have pulled the changes and the files are synchronized, now I can push the chnages. _git push_
