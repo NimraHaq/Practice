@@ -12,3 +12,5 @@ To check status , I used _git status_
 
 If I want to push some changes to the remote repository, first I need to pull all the changes made in the remote repository into my local repository. _git pull_
 After I have pulled the changes and the files are synchronized, now I can push the chnages. _git push_
+
+We have used clone, status, add, commit, push, pull commands today.
