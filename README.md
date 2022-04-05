@@ -15,4 +15,4 @@ After I have pulled the changes and the files are synchronized, now I can push t
 
 We have used clone, status, add, commit, push, pull commands today.
 
-If I made a change in file, and didn't move the new file into the stagging area (by add command), I can undo the change in the file by using _git checkout -- fileName.ecxtension_
+If I made a change in file, and didn't move the new file into the stagging area (by add command), I can undo the change in the file by using _git checkout -- fileName.extension_
