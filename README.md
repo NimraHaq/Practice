@@ -22,4 +22,4 @@ If I made change in more than 1 files, and didn't add in the stagging area by ad
 If I made a change in the file, added it to the stagging area, commited it, then the committed change can be undo+commit undo by revert command   _git revert {commitID}_
 
 If I made a change in the file, added it to the stagging area, commited it, then the committed change can be undo by revert command   _git revert -n {commitID}_ The file would be in the stagging area. Then you would have to explicitly commit the undo change.
-
+-n would not commit the change you made It would be in the stagging area. You would have to explicitly commit it. But if you donot use -n in revert command, your change would be reverted and committed as well.
