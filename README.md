@@ -17,4 +17,4 @@ We have used clone, status, add, commit, push, pull commands today.
 
 If I made a change in file, and didn't move the new file into the stagging area (by add command), I can undo the change in the file by using _git checkout -- fileName.extension_
 
-If I made change in more than 1 files, and didn't add in the stagging area by add command, and now I want to undo the changes, I can use _git checkout -- ._ I would undo all the changes made in all the files.
+If I made change in more than 1 files, and didn't add in the stagging area by add command, and now I want to undo the changes, I can use _git checkout -- ._ It would undo all the changes made in all the files.
