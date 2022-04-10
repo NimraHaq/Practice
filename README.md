@@ -32,3 +32,4 @@ The commits after the the {commitID} will be discarded.
 
 #init
 If you want to make a local folder, a git repository. go into that folder as write _git init_
+That folder will be initialzied as git repository.
