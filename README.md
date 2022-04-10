@@ -29,3 +29,6 @@ If I made a change in the file, added it to the stagging area, commited it, then
 #reset
 It is a powerful command and must be used carefully. If you want to go to some previous commit version you can use reset. _get reset --hard {commitID}_
 The commits after the the {commitID} will be discarded.
+
+#init
+If you want to make a local folder, a git repository. go into that folder as write _git init_
